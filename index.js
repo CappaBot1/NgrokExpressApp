@@ -1,7 +1,7 @@
 // ./index.js
 
 const ngrok = require('ngrok');
-// Import app from "./app file
+// Import app from "./app" file
 const app = require("./app");
 
 // Port that will be uses to listen to requests
